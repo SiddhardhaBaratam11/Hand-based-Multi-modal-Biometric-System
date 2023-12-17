@@ -1,1 +1,1 @@
-# Multimodal-biometric-system
+# Hand Based Multi-modal Biometric System
